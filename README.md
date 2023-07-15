@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m @TauZZ 
-- 🌱不断进步,
+- 🌱不断进步
 ## [个人博客😊](https://tauzi.github.io/myblog/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TauZi)](https://github.com/anuraghazra/github-readme-stats)
